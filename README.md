@@ -84,6 +84,16 @@ Beijing <a href="https://learnings.ai">Lexin Shengwen</a>, responsible for the d
 <p/>
 <a href="https://itunes.apple.com/app/id1357464684" target="blank"><img align="center" src="https://github.com/Guo8a/Guo8a/assets/21135761/ad501c1f-9c63-4c16-8e5d-4cc99619d07c" alt="guo8a" /></a>
 </p>
+
+<p align="left">
+<li><strong>2018.09-2019.10</strong></li>
+<p/>
+<p/>
+<a href="https://keep.com/" target="blank"><img align="center" src="https://github.com/Guo8a/Guo8a/assets/21135761/cde2ec8c-dafb-45ab-b962-693ecbcb9bbe" alt="guo8a"/></a>
+<p/>
+<a href="https://keep.com/" target="blank">Keep</a>, iOS development in both running and advertising businesses.
+</p>
+
 </ul>
 
 <h3 align="left">Connect with me:</h3>
