@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guo8a</h1>
 <h3 align="center">A passionate iOS developer from Hangzhou, China.</h3>
 
-<li>🔭 I’m currently working on <a href="https://www.cutout.pro/">cutout</a></li>
+<li>🔭 I’m currently working on <a href="https://libai.ai/">LibAI</a></li>
 <p/>
 <li>🌱 I’m currently learning <strong>Flutter</strong></li>
 <p/>
@@ -24,6 +24,16 @@ Hangzhou, Independently responsible app development (Flutter / iOS):
 
 <p/>
 <ol>
+
+<li><strong>Ideal House:</strong> AI Home Decor</li>
+<p/>
+<p/>
+<img align="center" src="https://github.com/user-attachments/assets/1d6c54b5-6e94-4a89-ba3b-ea171684e924" alt="guo8a"/>
+<p/>
+App Store: <a href="https://itunes.apple.com/app/id6743382731" target="blank">Ideal House</a>
+<p/>
+Google play Store:  <a href="https://play.google.com/store/apps/details?id=com.wonder.idealhouse.app" target="blank">Ideal House</a>
+<p/>
 
 <li><strong>VogueShot:</strong> AI Fashion Studio AI Supermodel & Background Changer</li>
 <p/>
