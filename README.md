@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Guo8a</h1>
-<h3 align="center">🚀 iOS & Flutter Developer | AI App Builder</h3>
+<!-- 动态打字标题 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Guo8a+👋;AI+Full-Stack+Developer;Building+AI+Apps+%26+Systems" />
+</p>
+
+<h3 align="center">🚀 AI Full-Stack Developer | Indie App Builder</h3>
 
 <p align="center">
   <a href="mailto:lihao.apache@gmail.com">📫 Email</a> •
@@ -7,73 +11,195 @@
   <a href="https://guoba.medium.com/">✍️ Medium</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Guo8a&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- 🔭 Building **LibAI**
-- 🌱 Learning **Flutter & AI**
-- 🤝 Open to collaboration
-- 💬 Ask me about **Objective-C / Swift / Dart**
+- 🔭 Building LibAI (AI-powered app infrastructure)
+- 🧠 Focused on AI + Full-Stack Product Development
+- ⚡ Indie hacker shipping real products
+- 💬 Ask me about iOS / Flutter / Golang / System Design
+
+---
+
+## 🧠 What I Focus On
+
+- 🚀 Building AI-powered full-stack applications
+- 🧩 Designing end-to-end systems (App + Backend + Admin)
+- 🤖 Leveraging AI tools like GPT / Claude / Gemini
+- ⚙️ Creating scalable & production-ready architectures
+
+---
+
+## 🧩 Full-Stack Engineering
+
+- 📱 App: Flutter / Native iOS (Swift / Objective-C)
+- 🌐 Frontend: Next.js / Vite / Vue
+- 🛠 Backend: Golang (RESTful API, scalable services)
+- 🗄 Database: PostgreSQL
+- 🐳 DevOps: Dockerized deployment & service orchestration
+- 🔐 System Design: Auth, payments, subscriptions, async jobs
+
+> I build complete products — from idea → architecture → deployment
+
+---
+
+## 🤖 AI Workflow
+
+- ⚡ Power user of GPT / Claude / Gemini
+- 🧠 Prompt engineering & AI-assisted coding
+- 🖼 AI feature integration (image, text, automation)
+- 🔗 Building AI-native apps, not just API wrappers
+
+---
+
+## ⭐ Featured Project
+
+### 🚀 LibAI (In Progress)
+
+Next-gen AI infrastructure for modern apps
+
+- ⚡ Modular AI capability integration
+- 🔐 Scalable backend architecture
+- 📱 Designed for mobile-first products
+- 🧩 Plug-and-play AI modules
+
+> Building a unified AI layer for apps
 
 ---
 
 ## 📱 Apps (Indie Projects)
 
-### 🏠 Ideal House
-<img src="https://github.com/user-attachments/assets/1d6c54b5-6e94-4a89-ba3b-ea171684e924" width="120"/>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-AI Home Decor App  
-[App Store](https://itunes.apple.com/app/id6743382731) • 
-[Google Play](https://play.google.com/store/apps/details?id=com.wonder.idealhouse.app)
+<a href="https://itunes.apple.com/app/id6743382731">
+  <img src="https://github.com/user-attachments/assets/1d6c54b5-6e94-4a89-ba3b-ea171684e924" width="110" />
+</a>
+
+### 🏠 Ideal House  
+<sub>AI Home Decor App</sub>  
+
+<a href="https://itunes.apple.com/app/id6743382731">🍎 App Store</a> · 
+<a href="https://play.google.com/store/apps/details?id=com.wonder.idealhouse.app">🤖 Google Play</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://itunes.apple.com/app/id6460822969">
+  <img src="https://github.com/Guo8a/Guo8a/assets/21135761/6da72b25-6ad5-4045-9e5d-1f9cc62a542e" width="110" />
+</a>
+
+### 👗 VogueShot  
+<sub>AI Fashion Studio</sub>  
+
+<a href="https://itunes.apple.com/app/id6460822969">🍎 App Store</a> · 
+<a href="https://play.google.com/store/apps/details?id=com.wonder.vogueshot">🤖 Google Play</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="#">
+  <img src="https://github.com/Guo8a/Guo8a/assets/21135761/f542ced4-49b2-46d9-9016-13a7c6f98270" width="110" />
+</a>
+
+### 🎨 Vivid Art  
+<sub>AI Image Generator</sub>  
+
+<sub>Coming Soon</sub>
+
+</td>
+
+<td align="center">
+
+<a href="#">
+  <img src="https://github.com/Guo8a/Guo8a/assets/21135761/99d2837d-120e-44e4-9e87-50bbd5c49211" width="110" />
+</a>
+
+### 🤖 Vivid Bot  
+<sub>AI Assistant</sub>  
+
+<sub>Coming Soon</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="#">
+  <img src="https://github.com/Guo8a/Guo8a/assets/21135761/0ec52e92-abf5-432f-b99f-2927a9f8856a" width="110" />
+</a>
+
+### 🎭 Ayaya  
+<sub>Cartoon Avatar Generator</sub>  
+
+<sub>Coming Soon</sub>
+
+</td>
+
+<td></td>
+</tr>
+</table>
 
 ---
 
-### 👗 VogueShot
-<img src="https://github.com/Guo8a/Guo8a/assets/21135761/6da72b25-6ad5-4045-9e5d-1f9cc62a542e" width="120"/>
+## 📈 Impact
 
-AI Fashion Studio  
-[App Store](https://itunes.apple.com/app/id6460822969) • 
-[Google Play](https://play.google.com/store/apps/details?id=com.wonder.vogueshot)
-
----
-
-### 🎨 Vivid Art
-<img src="https://github.com/Guo8a/Guo8a/assets/21135761/f542ced4-49b2-46d9-9016-13a7c6f98270" width="120"/>
-
-AI Image Generator
-
----
-
-### 🤖 Vivid Bot
-<img src="https://github.com/Guo8a/Guo8a/assets/21135761/99d2837d-120e-44e4-9e87-50bbd5c49211" width="120"/>
-
-AI Assistant
-
----
-
-### 🎭 Ayaya
-<img src="https://github.com/Guo8a/Guo8a/assets/21135761/0ec52e92-abf5-432f-b99f-2927a9f8856a" width="120"/>
-
-Cartoon Avatar Generator
+- 📱 Multiple AI apps launched
+- 🌍 Global users across platforms
+- ⚡ Rapid iteration & continuous shipping
+- 🧪 Experimenting with AI-native products
 
 ---
 
 ## 💼 Professional Experience
 
 ### 📖 KJV Bible App (Lexin Shengwen)
-<img src="https://github.com/Guo8a/Guo8a/assets/21135761/ad501c1f-9c63-4c16-8e5d-4cc99619d07c" width="540"/>
 
-- Refactored **Objective-C → Swift**
-- Built with **RxSwift + Clean Architecture**
-- Crash rate reduced to **< 0.01%**
+<a href="#">
+  <img src="https://github.com/Guo8a/Guo8a/assets/21135761/ad501c1f-9c63-4c16-8e5d-4cc99619d07c" width="520"/>
+</a>
+
+<sub>iOS App • Production System</sub>
+
+- Refactored Objective-C → Swift
+- Built with RxSwift + Clean Architecture
+- Crash rate reduced to < 0.01%
 
 ---
 
 ### 🏃 Keep
-<img src="https://github.com/Guo8a/Guo8a/assets/21135761/cde2ec8c-dafb-45ab-b962-693ecbcb9bbe" width="120"/>
 
-- iOS Developer (Running + Ads business)
+<a href="https://www.gotokeep.com/">
+  <img src="https://github.com/Guo8a/Guo8a/assets/21135761/cde2ec8c-dafb-45ab-b962-693ecbcb9bbe" width="110"/>
+</a>
+
+<sub>Fitness Platform • iOS Development</sub>
+
+- iOS Developer (Running + Ads business integration)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guo8a&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guo8a&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guo8a&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 
@@ -94,3 +220,11 @@ Cartoon Avatar Generator
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=swift,dart,flutter,react,vue,nextjs,nodejs,golang,kotlin,typescript,firebase,tensorflow,git,docker,postgres" />
 </p>
+
+---
+
+## 🎯 Philosophy
+
+> Build fast. Ship fast. Iterate faster.
+
+--
