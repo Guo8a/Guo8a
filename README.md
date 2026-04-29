@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Building LibAI (AI-powered app infrastructure)
+- 🔭 Currently working at LibAI (2022.06 - Present)
 - 🧠 Focused on AI + Full-Stack Product Development
 - ⚡ Indie hacker shipping real products
 - 💬 Ask me about iOS / Flutter / Golang / System Design
@@ -59,7 +59,7 @@
 
 ## ⭐ Featured Project
 
-### 🚀 LibAI (In Progress)
+### 🚀 LibAI (2022.06 - Present)
 
 Next-gen AI infrastructure for modern apps
 
@@ -163,6 +163,16 @@ Next-gen AI infrastructure for modern apps
 ---
 
 ## 💼 Professional Experience
+
+### 🚀 LibAI
+
+<sub>AI Infrastructure & Full-Stack Product Development • 2022.06 - Present</sub>
+
+- Building AI-powered app infrastructure and product systems
+- Designing mobile-first AI app architecture across app, backend, and admin
+- Integrating AI capabilities into production-ready applications
+
+---
 
 ### 📖 KJV Bible App (Lexin Shengwen)
 
